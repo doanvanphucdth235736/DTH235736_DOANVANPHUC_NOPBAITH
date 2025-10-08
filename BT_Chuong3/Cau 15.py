@@ -1,0 +1,12 @@
+
+print("(a)", list(range(5)))
+print("(b)", list(range(5, 10)))
+print("(c)", list(range(5, 20, 3)))
+print("(d)", list(range(20, 5, -1)))
+print("(e)", list(range(20, 5, -3)))
+print("(f)", list(range(10, 5)))
+print("(g)", list(range(0)))
+print("(h)", list(range(10, 101, 10)))
+print("(i)", list(range(10, -1, -1)))
+print("(j)", list(range(-3, 4)))
+print("(k)", list(range(0, 10, 1)))
